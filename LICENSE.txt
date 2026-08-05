@@ -1,0 +1,219 @@
+PACKET BUILDER — END USER LICENSE AGREEMENT
+
+Copyright (c) 2026 meta-n8. All rights reserved.
+
+This is proprietary software. It is NOT open source, and no source code is
+provided or licensed under this Agreement. Read this before installing or
+using it. By installing, copying or using Packet Builder (the "Software") you
+agree to these terms. If you do not agree, do not install or use it.
+
+
+--------------------------------------------------------------------------
+SUMMARY (plain English — the numbered terms below are what actually binds)
+
+  * FREE for individuals. If you are a person who installed your own copy on
+    your own computer, you may use it at no charge — including for your own
+    job or official duties.
+
+  * PAID for organizations. If a company, agency, military unit, school or
+    other organization wants to deploy it, install it on its systems, hand it
+    out internally, standardize on it, or have contractors use it on its
+    behalf, that requires a paid licence.
+
+  * To license it for an organization, contact: belay.weasel7901@eagereverest.com
+--------------------------------------------------------------------------
+
+
+1. DEFINITIONS
+
+1.1 "Licensor" means the author publishing as "meta-n8",
+    contactable at belay.weasel7901@eagereverest.com.
+
+1.2 "You" means the person or entity using the Software.
+
+1.3 "Organization" means any entity other than a natural person, including
+    without limitation a company, partnership, sole proprietorship, joint
+    venture, non-profit, association, educational institution, and any
+    government, government agency, department, branch, command, military
+    unit or other public body at any national, state, local or allied level.
+
+1.4 "Individual Use" means use by a natural person of a copy that person
+    obtained and installed, on one or more computers that person owns or
+    personally controls, acting on that person's own initiative. Individual
+    Use INCLUDES using the Software in connection with that person's own
+    employment, service or official duties, provided the use is not
+    Organizational Use.
+
+1.5 "Organizational Use" means any of the following, whoever performs it:
+
+    (a) installing, deploying or running the Software on any computer,
+        image, virtual machine or environment that is owned, issued,
+        managed, administered or provisioned by an Organization;
+    (b) copying, distributing, hosting or otherwise making the Software
+        available to others within or on behalf of an Organization;
+    (c) an Organization requiring, directing, recommending as standard,
+        adopting or standardizing on the Software;
+    (d) acquiring, procuring or evaluating the Software for adoption by an
+        Organization, except as section 3.2 permits;
+    (e) use by a contractor, consultant, integrator or other third party in
+        performing work for or on behalf of an Organization; or
+    (f) use to produce deliverables that an Organization provides to third
+        parties in the course of its business or mission.
+
+
+2. INDIVIDUAL LICENSE — NO CHARGE
+
+Subject to this Agreement, Licensor grants You a personal, non-exclusive,
+non-transferable, non-sublicensable, revocable, royalty-free licence to
+install and use the Software for Individual Use. You may make a reasonable
+number of copies for your own use and for backup.
+
+This licence is granted to you as a person. It does not extend to any
+Organization you belong to, work for, serve in or contract with.
+
+
+3. ORGANIZATIONAL LICENSE — REQUIRED, PAID SEPARATELY
+
+3.1 No right of Organizational Use is granted by this Agreement.
+    Organizational Use requires a separate written commercial licence from
+    Licensor, on terms and fees agreed with Licensor. To obtain one, contact
+    belay.weasel7901@eagereverest.com.
+
+3.2 Evaluation. An Organization may use the Software for up to thirty (30)
+    days for the sole purpose of evaluating whether to obtain a commercial
+    licence. Evaluation use is subject to every other term of this
+    Agreement, including sections 8 through 10.
+
+3.3 An individual's no-charge licence under section 2 does not become an
+    Organizational licence, and may not be relied on by an Organization as
+    permission for Organizational Use.
+
+
+4. U.S. GOVERNMENT END USERS
+
+The Software is "commercial computer software" and "commercial computer
+software documentation" as those terms are used in FAR 12.212 and DFARS
+227.7202. Consistent with those provisions, it is licensed to U.S. Government
+end users only with those rights granted to all other end users under this
+Agreement, and Organizational Use by a U.S. Government entity requires a
+commercial licence under section 3. Nothing in this Agreement grants the
+Government unlimited, government-purpose or restricted rights in the Software.
+
+
+5. RESTRICTIONS
+
+Except as section 7 expressly allows, You may not:
+
+  (a) redistribute, publish, sell, rent, lease, lend or sublicense the
+      Software, or otherwise make it available to any third party;
+  (b) modify, adapt, translate or create derivative works of the Software;
+  (c) reverse engineer, decompile or disassemble the Software, or attempt to
+      derive its source code;
+  (d) remove, alter or obscure any copyright, licence or other proprietary
+      notice;
+  (e) use the Software to provide a service to third parties; or
+  (f) use the Software for Organizational Use without a licence under
+      section 3.
+
+
+6. OWNERSHIP AND SOURCE CODE
+
+The Software is licensed, not sold. Licensor retains all right, title and
+interest in it, including all intellectual property rights. This Agreement
+conveys no rights in the Software's source code, which is not distributed.
+Packets and other content You create with the Software are yours; this
+Agreement claims no rights in them.
+
+
+7. THIRD-PARTY COMPONENTS, AND YOUR LGPL RIGHTS
+
+The Software includes third-party components under their own licences,
+reproduced in the accompanying THIRD-PARTY-NOTICES.txt. Where a third-party
+licence grants You rights broader than this Agreement, that licence controls
+for that component.
+
+Certain components (the Qt / PySide6 libraries) are licensed under the GNU
+Lesser General Public License version 3 ("LGPL"). Notwithstanding section 5,
+and as the LGPL requires, You may:
+
+  (a) reverse engineer and debug the Software to the extent necessary to
+      modify, debug or improve those LGPL-licensed components; and
+  (b) modify those components and relink or replace them with your modified
+      versions.
+
+The Software is distributed so those components are separate, replaceable
+files in the installation folder. THIRD-PARTY-NOTICES.txt explains how to
+obtain their source code. These rights apply to the LGPL components only, not
+to the rest of the Software.
+
+
+8. NO WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE AND NONINFRINGEMENT. LICENSOR DOES NOT WARRANT THAT THE
+SOFTWARE WILL BE ERROR-FREE OR THAT ITS OUTPUT WILL BE ACCURATE, COMPLETE OR
+CURRENT.
+
+
+9. NOT FOR NAVIGATIONAL OR OPERATIONAL USE — VERIFY EVERYTHING
+
+The Software is a planning and document-formatting aid ONLY. It is not
+certified, approved or endorsed by any government, military organization,
+aviation authority or standards body, and it is not a source of aeronautical
+information.
+
+The Software does not validate what You enter, and does not validate data it
+retrieves from external services. Everything it prints — frequencies, times,
+altitudes, turn and stagger figures, routes, approach data, astronomical and
+light data, NOTAMs, weather, and any imported content — comes from You or
+from a third-party source and is reproduced without verification. Retrieved
+data is a snapshot that begins going out of date the moment it is retrieved.
+
+YOU ARE SOLELY RESPONSIBLE FOR VERIFYING ALL DATA AGAINST CURRENT, OFFICIAL,
+AUTHORITATIVE SOURCES BEFORE ANY OPERATIONAL USE. DO NOT USE THE SOFTWARE OR
+ITS OUTPUT AS A PRIMARY SOURCE FOR NAVIGATION, FLIGHT PLANNING OR THE CONDUCT
+OF FLIGHT.
+
+
+10. LIMITATION OF LIABILITY
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, LICENSOR SHALL NOT BE LIABLE FOR ANY
+DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY OR CONSEQUENTIAL DAMAGES
+(INCLUDING LOSS OF USE, DATA, PROFITS OR BUSINESS INTERRUPTION, OR ANY
+PERSONAL INJURY, DEATH OR PROPERTY DAMAGE) ARISING OUT OF OR RELATING TO THE
+SOFTWARE OR ITS USE, HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, EVEN IF
+ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS APPLIES TO THE NO-CHARGE
+LICENCE IN SECTION 2 IN PARTICULAR, WHICH IS PROVIDED WITHOUT FEE.
+
+
+11. LAWFUL USE, EXPORT AND CLASSIFICATION
+
+You are responsible for using the Software in compliance with all applicable
+laws, regulations, export controls, and the policies of any organization you
+belong to, including rules on handling, marking and storing controlled,
+sensitive or classified information, and any rules governing the use of
+non-approved software on official systems. You are responsible for obtaining
+any credentials You use with third-party data services and for complying with
+those services' terms. The Software produces no classification markings and
+applies no access controls; the classification, marking, handling and
+safeguarding of any packet You create is entirely your responsibility.
+
+
+12. TERM AND TERMINATION
+
+This Agreement applies for as long as You use the Software. It terminates
+automatically if You breach it. Licensor may also terminate the no-charge
+licence in section 2 on notice. On termination You must stop using the
+Software and destroy all copies. Sections 5, 6 and 8 through 13 survive.
+
+
+13. GENERAL
+
+If any provision is held unenforceable, the rest remains in effect. Failure to
+enforce a provision is not a waiver of it. This Agreement is the entire
+agreement between You and Licensor about the Software and supersedes any prior
+understanding. A separate written commercial licence signed by Licensor
+prevails over this Agreement to the extent of any conflict.
+
+Commercial licensing enquiries: belay.weasel7901@eagereverest.com

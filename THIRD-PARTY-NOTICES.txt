@@ -1,0 +1,150 @@
+PACKET BUILDER — THIRD-PARTY SOFTWARE NOTICES
+
+Packet Builder is proprietary software (see LICENSE.txt). It includes and is
+distributed with the third-party components listed below, each licensed under
+its own terms. Those terms govern those components, not this product's EULA.
+
+
+===============================================================================
+1. Qt for Python (PySide6) and Shiboken6 — THE QT COMPANY
+===============================================================================
+
+    Components : PySide6, PySide6-Essentials, PySide6-Addons, Shiboken6, and
+                 the underlying Qt libraries (Qt Core, Gui, Widgets, Pdf,
+                 PdfWidgets, Svg and their dependencies).
+    Copyright  : Copyright (C) The Qt Company Ltd. and other contributors.
+    License    : GNU Lesser General Public License, version 3 (LGPLv3).
+                 PySide6 is available under LGPL-3.0-only OR GPL-2.0-only OR
+                 GPL-3.0-only; it is used here under the terms of LGPLv3.
+
+  LICENSE TEXT
+  ------------
+  The full text of the GNU Lesser General Public License version 3 is
+  available at:      https://www.gnu.org/licenses/lgpl-3.0.txt
+  The GNU General Public License version 3, which LGPLv3 incorporates by
+  reference, is at:  https://www.gnu.org/licenses/gpl-3.0.txt
+  A copy of both is installed alongside this file where distribution
+  requires it, and will be supplied on request (see "Written offer" below).
+
+  WRITTEN OFFER OF SOURCE CODE
+  ----------------------------
+  The complete corresponding source code for the LGPL-licensed components is
+  publicly available from the upstream projects:
+
+      Qt for Python (PySide6) : https://download.qt.io/official_releases/QtForPython/
+                                https://code.qt.io/cgit/pyside/pyside-setup.git/
+                                https://pypi.org/project/PySide6/#files
+      Qt libraries            : https://download.qt.io/official_releases/qt/
+                                https://code.qt.io/cgit/qt/qt5.git/
+
+  The versions used by a given build are recorded in that build's
+  requirements. On request, the author will also provide a copy of the
+  corresponding source for the versions actually shipped.
+
+  YOUR RIGHTS UNDER THE LGPL
+  --------------------------
+  The LGPL guarantees you the right to modify the LGPL-licensed components
+  and to run this application against your modified versions. To make that
+  possible, Packet Builder is distributed as a "one-folder" application: the
+  Qt/PySide6 dynamic libraries are installed as separate, individually
+  replaceable files in the installation directory (typically
+  C:\Program Files\PacketBuilder\). You may replace them with compatible
+  versions you have built yourself.
+
+  You are also permitted to reverse engineer and debug this application as
+  necessary to modify, debug or improve those components. See section 5 of
+  LICENSE.txt.
+
+
+===============================================================================
+2. ReportLab Toolkit (open-source edition)
+===============================================================================
+
+    Component : reportlab
+    Copyright : Copyright (c) 2000-2025, ReportLab Inc. All rights reserved.
+    License   : BSD 3-Clause License
+    Source    : https://pypi.org/project/reportlab/
+                https://hg.reportlab.com/hg-public/reportlab/
+
+  Redistribution and use in source and binary forms, with or without
+  modification, are permitted provided that the following conditions are met:
+
+      * Redistributions of source code must retain the above copyright
+        notice, this list of conditions and the following disclaimer.
+      * Redistributions in binary form must reproduce the above copyright
+        notice, this list of conditions and the following disclaimer in the
+        documentation and/or other materials provided with the distribution.
+      * Neither the name of the company nor the names of its contributors may
+        be used to endorse or promote products derived from this software
+        without specific prior written permission.
+
+  THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS"
+  AND ANY EXPRESS OR IMPLIED WARRANTIES, INCLUDING, BUT NOT LIMITED TO, THE
+  IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS FOR A PARTICULAR PURPOSE
+  ARE DISCLAIMED. IN NO EVENT SHALL THE COPYRIGHT OWNER OR CONTRIBUTORS BE
+  LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY, OR
+  CONSEQUENTIAL DAMAGES (INCLUDING, BUT NOT LIMITED TO, PROCUREMENT OF
+  SUBSTITUTE GOODS OR SERVICES; LOSS OF USE, DATA, OR PROFITS; OR BUSINESS
+  INTERRUPTION) HOWEVER CAUSED AND ON ANY THEORY OF LIABILITY, WHETHER IN
+  CONTRACT, STRICT LIABILITY, OR TORT (INCLUDING NEGLIGENCE OR OTHERWISE)
+  ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF ADVISED OF THE
+  POSSIBILITY OF SUCH DAMAGE.
+
+
+===============================================================================
+3. Pillow (used at build time for icon generation; may be bundled)
+===============================================================================
+
+    Component : pillow
+    Copyright : Copyright (c) 2010 by Jeffrey A. Clark and contributors.
+                Original PIL: Copyright (c) 1997-2011 by Secret Labs AB,
+                Copyright (c) 1995-2011 by Fredrik Lundh.
+    License   : MIT-CMU
+    Source    : https://pypi.org/project/pillow/
+                https://github.com/python-pillow/Pillow
+
+  Permission to use, copy, modify and distribute this software and its
+  documentation for any purpose and without fee is hereby granted, provided
+  that the above copyright notice appears in all copies, and that both that
+  copyright notice and this permission notice appear in supporting
+  documentation, and that the name of the copyright holder not be used in
+  advertising or publicity pertaining to distribution of the software without
+  specific, written prior permission.
+
+  THE COPYRIGHT HOLDER DISCLAIMS ALL WARRANTIES WITH REGARD TO THIS SOFTWARE,
+  INCLUDING ALL IMPLIED WARRANTIES OF MERCHANTABILITY AND FITNESS. IN NO EVENT
+  SHALL THE COPYRIGHT HOLDER BE LIABLE FOR ANY SPECIAL, INDIRECT OR
+  CONSEQUENTIAL DAMAGES OR ANY DAMAGES WHATSOEVER RESULTING FROM LOSS OF USE,
+  DATA OR PROFITS, WHETHER IN AN ACTION OF CONTRACT, NEGLIGENCE OR OTHER
+  TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR PERFORMANCE
+  OF THIS SOFTWARE.
+
+
+===============================================================================
+4. Python
+===============================================================================
+
+    Component : CPython runtime (bundled by PyInstaller)
+    Copyright : Copyright (c) 2001-2026 Python Software Foundation.
+                All Rights Reserved.
+    License   : PSF License Agreement
+    Text      : https://docs.python.org/3/license.html
+    Source    : https://www.python.org/downloads/source/
+
+
+===============================================================================
+5. PyInstaller (build tool)
+===============================================================================
+
+    Component : PyInstaller — used to build the distributed executable.
+    License   : GPL 2.0 or later, WITH the PyInstaller bootloader exception,
+                which expressly permits distributing proprietary applications
+                built with it.
+    Text      : https://pyinstaller.org/en/stable/license.html
+    Source    : https://github.com/pyinstaller/pyinstaller
+
+
+===============================================================================
+
+Questions about these notices, or requests for the corresponding source code
+of any LGPL component, should be directed to the author of Packet Builder.
