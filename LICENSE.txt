@@ -1,4 +1,4 @@
-PACKET BUILDER — END USER LICENSE AGREEMENT
+PACKET BUILDER - END USER LICENSE AGREEMENT
 
 Copyright (c) 2026 meta-n8. All rights reserved.
 
@@ -9,10 +9,10 @@ agree to these terms. If you do not agree, do not install or use it.
 
 
 --------------------------------------------------------------------------
-SUMMARY (plain English — the numbered terms below are what actually binds)
+SUMMARY (plain English - the numbered terms below are what actually binds)
 
   * FREE for individuals. If you are a person who installed your own copy on
-    your own computer, you may use it at no charge — including for your own
+    your own computer, you may use it at no charge - including for your own
     job or official duties.
 
   * PAID for organizations. If a company, agency, military unit, school or
@@ -61,7 +61,7 @@ SUMMARY (plain English — the numbered terms below are what actually binds)
         parties in the course of its business or mission.
 
 
-2. INDIVIDUAL LICENSE — NO CHARGE
+2. INDIVIDUAL LICENSE - NO CHARGE
 
 Subject to this Agreement, Licensor grants You a personal, non-exclusive,
 non-transferable, non-sublicensable, revocable, royalty-free licence to
@@ -72,7 +72,7 @@ This licence is granted to you as a person. It does not extend to any
 Organization you belong to, work for, serve in or contract with.
 
 
-3. ORGANIZATIONAL LICENSE — REQUIRED, PAID SEPARATELY
+3. ORGANIZATIONAL LICENSE - REQUIRED, PAID SEPARATELY
 
 3.1 No right of Organizational Use is granted by this Agreement.
     Organizational Use requires a separate written commercial licence from
@@ -156,7 +156,7 @@ SOFTWARE WILL BE ERROR-FREE OR THAT ITS OUTPUT WILL BE ACCURATE, COMPLETE OR
 CURRENT.
 
 
-9. NOT FOR NAVIGATIONAL OR OPERATIONAL USE — VERIFY EVERYTHING
+9. NOT FOR NAVIGATIONAL OR OPERATIONAL USE - VERIFY EVERYTHING
 
 The Software is a planning and document-formatting aid ONLY. It is not
 certified, approved or endorsed by any government, military organization,
@@ -164,9 +164,9 @@ aviation authority or standards body, and it is not a source of aeronautical
 information.
 
 The Software does not validate what You enter, and does not validate data it
-retrieves from external services. Everything it prints — frequencies, times,
+retrieves from external services. Everything it prints - frequencies, times,
 altitudes, turn and stagger figures, routes, approach data, astronomical and
-light data, NOTAMs, weather, and any imported content — comes from You or
+light data, NOTAMs, weather, and any imported content - comes from You or
 from a third-party source and is reproduced without verification. Retrieved
 data is a snapshot that begins going out of date the moment it is retrieved.
 
@@ -205,7 +205,7 @@ safeguarding of any packet You create is entirely your responsibility.
 This Agreement applies for as long as You use the Software. It terminates
 automatically if You breach it. Licensor may also terminate the no-charge
 licence in section 2 on notice. On termination You must stop using the
-Software and destroy all copies. Sections 5, 6 and 8 through 13 survive.
+Software and destroy all copies. Sections 5 through 13 survive.
 
 
 13. GENERAL

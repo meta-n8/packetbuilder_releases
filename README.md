@@ -25,15 +25,19 @@ includes an uninstaller.
 > **Windows SmartScreen** will warn about an unrecognized publisher, because
 > the installer is not code-signed. Choose **More info → Run anyway**.
 
+Since it is unsigned, you can check you got the file that was actually
+published: run `Get-FileHash .\PacketBuilderSetup.exe` in PowerShell and
+compare it with the SHA-256 GitHub shows next to the asset on the release page.
+
 Requires 64-bit Windows.
 
 ---
 
 ## Licence — free for individuals, paid for organizations
 
-| | |
+| Licence | Who it covers |
 |---|---|
-| **Free** | You are a person who installed your own copy on a computer you own or control — **including using it for your own job or official duties**. |
+| **Free** | You are a person who installed your own copy on a computer you personally own or control — **including using it for your own job or official duties**. A computer your organization issues, manages or provisions does not count as one of yours. |
 | **Paid** | Any **organizational** use: installing on organization-managed systems, handing copies out internally, an organization standardizing on or mandating it, procurement, or contractors using it on an organization's behalf. "Organization" includes companies, non-profits, schools, and **government agencies and military units** at any level. |
 
 Organizations get a **30-day evaluation**. For an organizational licence,

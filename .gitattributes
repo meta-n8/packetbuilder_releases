@@ -1,0 +1,6 @@
+# Keep everything normalized to LF in the repository.
+* text=auto
+
+# These ship to Windows users and are opened in Windows text viewers
+# (including the installer's licence page), so check them out with CRLF.
+*.txt text eol=crlf

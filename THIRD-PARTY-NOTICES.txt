@@ -1,4 +1,4 @@
-PACKET BUILDER — THIRD-PARTY SOFTWARE NOTICES
+PACKET BUILDER - THIRD-PARTY SOFTWARE NOTICES
 
 Packet Builder is proprietary software (see LICENSE.txt). It includes and is
 distributed with the third-party components listed below, each licensed under
@@ -6,7 +6,7 @@ its own terms. Those terms govern those components, not this product's EULA.
 
 
 ===============================================================================
-1. Qt for Python (PySide6) and Shiboken6 — THE QT COMPANY
+1. Qt for Python (PySide6) and Shiboken6 - THE QT COMPANY
 ===============================================================================
 
     Components : PySide6, PySide6-Essentials, PySide6-Addons, Shiboken6, and
@@ -39,7 +39,9 @@ its own terms. Those terms govern those components, not this product's EULA.
 
   The versions used by a given build are recorded in that build's
   requirements. On request, the author will also provide a copy of the
-  corresponding source for the versions actually shipped.
+  corresponding source for the versions actually shipped, and a copy of the
+  LGPLv3 and GPLv3 licence texts. Send such requests to
+  belay.weasel7901@eagereverest.com.
 
   YOUR RIGHTS UNDER THE LGPL
   --------------------------
@@ -52,7 +54,7 @@ its own terms. Those terms govern those components, not this product's EULA.
   versions you have built yourself.
 
   You are also permitted to reverse engineer and debug this application as
-  necessary to modify, debug or improve those components. See section 5 of
+  necessary to modify, debug or improve those components. See section 7 of
   LICENSE.txt.
 
 
@@ -136,7 +138,7 @@ its own terms. Those terms govern those components, not this product's EULA.
 5. PyInstaller (build tool)
 ===============================================================================
 
-    Component : PyInstaller — used to build the distributed executable.
+    Component : PyInstaller - used to build the distributed executable.
     License   : GPL 2.0 or later, WITH the PyInstaller bootloader exception,
                 which expressly permits distributing proprietary applications
                 built with it.
@@ -147,4 +149,5 @@ its own terms. Those terms govern those components, not this product's EULA.
 ===============================================================================
 
 Questions about these notices, or requests for the corresponding source code
-of any LGPL component, should be directed to the author of Packet Builder.
+of any LGPL component, should be directed to the author of Packet Builder at
+belay.weasel7901@eagereverest.com.
