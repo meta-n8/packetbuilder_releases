@@ -111,7 +111,8 @@ mission needs.
   and a legs table
 * **SP / PZ / LZ / FARP cards** — upload satellite imagery, orient a compass to
   north, drag and rotate helicopter icons, add text, arrows, Xs and boxes
-* **IIMC break-up** — computed from a few parameters, with a plan-view diagram
+* **IIMC break-up** — computed from a few parameters, with a plan-view diagram;
+  the procedure wording is filled in automatically and can be edited
 * **Approach plate** — upload the plate as an image or PDF
 * **Document page** — any image or PDF, full page
 * **EXCHECK** — execution checklists with prowords; add as many as the
@@ -123,6 +124,16 @@ background every minute — if the app closes unexpectedly, it offers to
 recover your packet the next time it starts.
 
 ---
+
+## What's new in v1.0.10
+
+* **Better paper cover:** the printed contents now fill the card — one row
+  per card with a large number badge (the card's position in the stack),
+  section dividers and tab colours carried over, and two columns for long
+  packets.
+* **Editable IIMC wording:** the procedure text is filled in with the
+  standard wording and follows your settings, but you can now edit it.
+  **Reset to standard wording** brings the generated version back.
 
 ## What's new in v1.0.9
 
