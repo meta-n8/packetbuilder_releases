@@ -114,7 +114,8 @@ mission needs.
 * **IIMC break-up** — computed from a few parameters, with a plan-view diagram
 * **Approach plate** — upload the plate as an image or PDF
 * **Document page** — any image or PDF, full page
-* **EXCHECK** — execution checklist with prowords
+* **EXCHECK** — execution checklists with prowords; add as many as the
+  mission needs (e.g. one per phase), each with its own title
 
 Packets save as `.pkt` files you can reopen and edit (save and export dialogs
 start in your **Documents** folder). Unsaved work is **autosaved** in the
@@ -122,6 +123,12 @@ background every minute — if the app closes unexpectedly, it offers to
 recover your packet the next time it starts.
 
 ---
+
+## What's new in v1.0.9
+
+* **Multiple EXCHECKs:** a packet can now hold more than one EXCHECK page.
+  Give each a **page title** (e.g. "Phase I – Ingress"); the title names its
+  tab on the cover and heads the printed page.
 
 ## What's new in v1.0.8
 
